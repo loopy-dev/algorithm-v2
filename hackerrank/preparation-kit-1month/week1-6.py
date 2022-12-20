@@ -17,6 +17,10 @@ example:
 
 100001
 비트를 뒤집으면 보수가 되므로, 해당 수의 보수를 구하면 된다.
+
+discussion에서 본 더 빠른 방법:
+def flippingBits(n):
+	return (2**32 - 1) - n
 """
 
 
