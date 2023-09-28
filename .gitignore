@@ -7,3 +7,4 @@ venv
 replit.nix
 .upm
 __pycache__
+.venv
